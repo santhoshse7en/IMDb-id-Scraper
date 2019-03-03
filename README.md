@@ -10,6 +10,7 @@ Python library dependencies
 ------------------------------------------------------------
     > BeautifulSoup
     > Requests
+    > argparse
     > time
     > sys
     > re
