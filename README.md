@@ -1,6 +1,6 @@
 IMDb id Scraper
 ------------------------------------------------------------------------------------------------------------------------------------------
-IMDb id [Internet Movie Database identifier] - is an identifier for the IMDb [with prefix 'tt', 'nm', 'co', 'ev', 'ch' or 'ni'] followed by se7en numerical digits. This python script display top 10 suggestion from the IMDb site and takes user input to scarpe the IMDb id for the selected option.
+IMDb id [Internet Movie Database identifier] - is an identifier for the IMDb [with prefix 'tt', 'nm', 'co', 'ev', 'ch' or 'ni'] followed by se7en numerical digits. This python script displays the top suggestions from the IMDb site and takes user input to scrape the IMDb id for the selected option.
 
 Output IMDb Suggestion List be like
 ------------------------------------------------------------------------------------------------------------------------------------------
