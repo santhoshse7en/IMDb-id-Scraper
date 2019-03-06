@@ -16,7 +16,9 @@ Python library dependencies
     > re
 
 Usage
-------------------------------------------------------------
+=====
+Download it by clicking the green download button here on Github. You only need to parse argument of name you want to search in IMDb.
+
     > python main.py --name 'rajini'
 
 or 
