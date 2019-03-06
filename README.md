@@ -18,7 +18,7 @@ Python library dependencies
 Usage
 ------------------------------------------------------------
     > python main.py --name 'rajini'
-    
-                or 
-    
+
+or 
+
     > python main.py -n 'rajini'
